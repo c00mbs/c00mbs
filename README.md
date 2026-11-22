@@ -1,5 +1,10 @@
 ![Stephanie Coombs — Founder, CareerOS.ai](assets/banner.svg)
 
+![Become](https://img.shields.io/badge/BECOME-c89b3c?style=for-the-badge)
+![TRACK](https://img.shields.io/badge/TRACK-c89b3c?style=for-the-badge)
+![TRACE](https://img.shields.io/badge/TRACE-c89b3c?style=for-the-badge)
+![TRUST](https://img.shields.io/badge/TRUST-c89b3c?style=for-the-badge)
+
 <img src="assets/bee.svg" align="right" width="140" alt="BEECOME bumblebee">
 
 Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer for your career.
@@ -46,7 +51,7 @@ Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer 
 ## Find me — everything in one place
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c89b3c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drcoombss)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-c89b3c?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/1df0dc94776c4fd1984c5ae7beee7083)
+[![Portfolio](https://img.shields.io/badge/Notion_Portfolio-c89b3c?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/1df0dc94776c4fd1984c5ae7beee7083)
 [![Handshake](https://img.shields.io/badge/Handshake_Showcase-c89b3c?style=for-the-badge)](https://app.joinhandshake.com/ai-showcase/projects/3834936)
 [![CareerOS.ai](https://img.shields.io/badge/CareerOS.ai_Live_App-c89b3c?style=for-the-badge)](https://become-careeros.onrender.com)
 
