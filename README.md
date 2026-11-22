@@ -1,4 +1,6 @@
-# Hi, I'm Stephanie Coombs 👋
+![Stephanie Coombs — Founder, CareerOS.ai](assets/banner.svg)
+
+<img src="assets/bee.svg" align="right" width="140" alt="BEECOME bumblebee">
 
 Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer for your career.
 
@@ -30,7 +32,11 @@ Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer 
 - 🎓 BS Data Science, Post University (in progress, GPA 3.84)
 - 📜 GitHub Foundations certification — in progress (GitHub Student Developer Pack)
 - 🎯 Next: Microsoft Power BI Data Analyst (PL-300)
-- 🛠️ SQL · Python · Power BI · Tableau · AI
+
+![Python](https://img.shields.io/badge/Python-c89b3c?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c89b3c?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-c89b3c?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-c89b3c?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## Certifications
 
@@ -43,4 +49,6 @@ Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer 
 - 🌐 CareerOS.ai: https://become-careeros.onrender.com
 
 ---
-*People are what they do.* 🐝
+*People are what they do.*
+
+<img src="assets/bee.svg" width="140" alt="BEECOME bumblebee">
