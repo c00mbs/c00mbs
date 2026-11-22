@@ -43,10 +43,17 @@ Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer 
 - Six LinkedIn Learning certificates — Information Literacy, Time Management Mindset, Active Listening, Ten Minutes to Better Prioritization, Better Digital Habits for Focus & Wellbeing, Stress Management
 - ServSafe Manager
 
-## Find me
+## Find me — everything in one place
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c89b3c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drcoombss)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-c89b3c?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/1df0dc94776c4fd1984c5ae7beee7083)
+[![Handshake](https://img.shields.io/badge/Handshake_Showcase-c89b3c?style=for-the-badge)](https://app.joinhandshake.com/ai-showcase/projects/3834936)
+[![CareerOS.ai](https://img.shields.io/badge/CareerOS.ai_Live_App-c89b3c?style=for-the-badge)](https://become-careeros.onrender.com)
 
 - 💼 LinkedIn: https://www.linkedin.com/in/drcoombss
-- 🌐 CareerOS.ai: https://become-careeros.onrender.com
+- 📁 Portfolio (Notion): https://app.notion.com/p/1df0dc94776c4fd1984c5ae7beee7083
+- 🤝 Handshake Showcase: https://app.joinhandshake.com/ai-showcase/projects/3834936
+- 🌐 CareerOS.ai (live app): https://become-careeros.onrender.com
 
 ---
 *People are what they do.*
