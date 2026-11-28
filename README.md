@@ -22,7 +22,7 @@ Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer 
 - **TRACE** — know what happened, and prove it
 - **TRUST** — know what is credible
 
-🔗 Live: https://become-careeros.onrender.com
+🔗 Live: https://beecome.me
 
 🏆 CareerOS.ai is my entry in the Handshake × Figma AI Skills Studio challenge — live in the Handshake Showcase.
 
@@ -64,7 +64,7 @@ Founder & Product Strategy Lead @ **CareerOS.ai** — building the memory layer 
   <a href="https://www.linkedin.com/in/drcoombss"><img src="https://img.shields.io/badge/LinkedIn-c89b3c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://app.notion.com/p/1df0dc94776c4fd1984c5ae7beee7083"><img src="https://img.shields.io/badge/Notion_Portfolio-c89b3c?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"></a>
   <a href="https://app.joinhandshake.com/ai-showcase/projects/3834936"><img src="https://img.shields.io/badge/Handshake_Showcase-c89b3c?style=for-the-badge" alt="Handshake Showcase"></a>
-  <a href="https://become-careeros.onrender.com"><img src="https://img.shields.io/badge/CareerOS.ai_Live_App-c89b3c?style=for-the-badge" alt="CareerOS.ai Live App"></a>
+  <a href="https://beecome.me"><img src="https://img.shields.io/badge/CareerOS.ai_Live_App-c89b3c?style=for-the-badge" alt="CareerOS.ai Live App"></a>
 </p>
 
 ---
